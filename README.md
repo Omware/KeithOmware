@@ -6,7 +6,7 @@
 * 📱: Android Developer.
 * 💻: Loves Android and Java.
 * 🌐: Learning a bit web development.
-* 🎵: Loves music.
+* 🎵: Loves deep house music.
 
 ## Social network
 
