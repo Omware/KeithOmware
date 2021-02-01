@@ -3,10 +3,10 @@
 #### About Me🤷‍♂️
 
 * 🇰🇪: From Kenya.
-* 📱: Android Developer.
-* 💻: Loves Android and Java.
+* 📱: Software Developer.
+* 💻: Loves Android Kotlin, Java.
 * 🌐: Learning a bit web development.
-* 🎵: Loves deep house music.
+* 🎵: Loves electric music.
 
 ## Social network
 
