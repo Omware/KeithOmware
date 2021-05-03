@@ -11,6 +11,7 @@
 ## Social network
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/keith-omware-989086189/)
+[![Twitter](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/KeithOmware)
 
 ---
 
