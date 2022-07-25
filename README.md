@@ -31,5 +31,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omware&layout=compact&theme=vision-friendly-dark)](https://github.com/Omware/github-readme-stats)
 
+[![Keith's GitHub stats](https://github-readme-stats.vercel.app/api?username=omware)](https://github.com/Omware/github-readme-stats)
+
 
 ## Projects 👇
