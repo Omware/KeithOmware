@@ -5,8 +5,7 @@
 * 🇰🇪: From Kenya.
 * 📱: Software Developer.
 * 💻: Loves Android, Kotlin, Java.
-* 🌐: Learning a bit web development.
-* 🎵: Loves electric music.
+* 🌐: Learning backend development.
 
 ## Social network
 
