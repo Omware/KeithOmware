@@ -29,9 +29,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=omware&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omware&layout=compact&theme=vision-friendly-dark)](https://github.com/Omware/github-readme-stats)
-
-[![Keith's GitHub stats](https://github-readme-stats.vercel.app/api?username=omware)](https://github.com/Omware/github-readme-stats)
+[![Keith's GitHub stats](https://github-readme-stats.vercel.app/api?username=omware&show_icons=true&theme=radical)](https://github.com/Omware/github-readme-stats)
 
 
 ## Projects 👇
