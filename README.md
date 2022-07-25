@@ -27,9 +27,9 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=omware&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=omware&theme=blue-green)](https://git.io/streak-stats)
 
-[![Keith's GitHub stats](https://github-readme-stats.vercel.app/api?username=omware&show_icons=true&theme=radical)](https://github.com/Omware/github-readme-stats)
+[![Keith's GitHub stats](https://github-readme-stats.vercel.app/api?username=omware&show_icons=true&theme=blue-green)](https://github.com/Omware/github-readme-stats)
 
 
 ## Projects 👇
