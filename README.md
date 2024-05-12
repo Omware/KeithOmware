@@ -3,9 +3,8 @@
 #### About Me🤷‍♂️
 
 * 🇰🇪: From Kenya.
-* 📱: Software Developer.
-* 💻: Loves Android, Kotlin, Java.
-* 🌐: Learning backend development.
+* 📱: Mobile Developer.
+* 💻: Android, Kotlin, Java, Flutter.
 
 ## Social network
 
@@ -25,12 +24,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" **alt="MongoDB" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
-### :fire: My Stats :
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=omware&theme=blue-green)](https://git.io/streak-stats)
-
-[![Keith's GitHub stats](https://github-readme-stats.vercel.app/api?username=omware&show_icons=true&theme=blue-green)](https://github.com/Omware/github-readme-stats)
-
 
 ## Projects 👇
